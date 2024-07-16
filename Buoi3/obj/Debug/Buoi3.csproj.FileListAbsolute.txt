@@ -1,0 +1,11 @@
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\obj\Debug\Buoi3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\obj\Debug\Buoi3.Form1.resources
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\obj\Debug\Buoi3.exe
+E:\LuuDuLieuSV\2001215777_NguyenMinhHieu_Buoi3\Buoi3\Buoi3\obj\Debug\Buoi3.pdb
