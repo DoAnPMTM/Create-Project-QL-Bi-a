@@ -25,8 +25,8 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 
 ### Yêu cầu 
 
-<p>Web: MVC ASP, LinQ</p>
-<p>Ngôn ngữ: Javascript, C# </p>
+<p>Web: ASP.NET CORE 8 API, ENTITY FRAMEWORK, ANGULAR v18</p>
+<p>Ngôn ngữ: typescript, html, css, C# </p>
 <p></p>
 
 <p>Nghiệp vụ</p>
@@ -34,11 +34,8 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 | STT | Nghiệp vụ | Phân công  |
 |----------------|--------------------|--------------------|
 |  1  |  Tìm kiếm Bàn trống |   Hiếu  |
-|  2  |  Đăng nhập đăng ký |  Hiếu  |
-|  3  |  Quản lý thông tin tài khoản [Thông tin KH, thông tin tài khoản] |  Hiếu  |
 |  4  |  Đặt bàn  |  Hiếu  |
 |  5  |  Xem giá chơi của từng bàn  |  Hiếu  |
-|  6  |  Xem tổng tiền đã chơi |  Hiếu  |
 
 
 <p>App: Winform </p>
@@ -61,20 +58,17 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 #### WEDSITE
 <p>Tìm kiếm và hiện thi bàn:</p>
 <ul>
-  <li>Tìm kiếm bàn theo tên, thể loại, v.v.</li>
+  <li>Lọc theo thể loại, v.v.</li>
   <li>Hiển thị thông tin chi tiết của mỗi bàn v.v.</li>
-  <li>Đặt bàn, xem tổng bill cần thanh toán</li>
 </ul>
 <p>
  Quản lý thông tin tài khoản 
 </p>
 <ul>
 <li>
-    Đăng ký và đăng nhập tài khoản cho người dùng.
-  </li>
-  <li>Quản lý thông tin cá nhân, mật khẩu</li>
+  đặt bàn
+</li>
 <li>Thông tin tài khoản</li>
- <li>Đổi mật khẩuh</li>
 <li>Thông tin khách hàng</li>
 </ul>
 
