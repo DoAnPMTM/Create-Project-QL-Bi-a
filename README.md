@@ -1,15 +1,17 @@
-# Create-Project-QL-Bi-a
+# -Project-QL-Bi-a-
 # Thành viên
 >>**Thầy  Bùi Công Danh**
   
 | STT | Họ tên | Chức vụ  |
 |----------------|--------------------|--------------------|
 |  1  |  Nguyễn Minh Hiếu  |   Nhóm trưởng  |
-|  2  |    |   Thành viên  |
+|  2  |  Phạm Thanh Tuấn   |   Thành viên  |
 -----------------------------------------------
 ### Sử dụng 
- - .Net Framework 
+ - .Net Framework
+ - Angular v18
  - Visual studio 2022
+ - Visual studio code
 -----------------------------------------------
 
 ### Chi tiết
@@ -34,8 +36,9 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 | STT | Nghiệp vụ | Phân công  |
 |----------------|--------------------|--------------------|
 |  1  |  Tìm kiếm Bàn trống |   Hiếu  |
-|  4  |  Đặt bàn  |  Hiếu  |
-|  5  |  Xem giá chơi của từng bàn  |  Hiếu  |
+|  2  |  Filter bàn theo loại | Hiếu |
+|  3  |  Đặt bàn  |  Hiếu  |
+|  4  |  Xem giá chơi của từng bàn  |  Hiếu  |
 
 
 <p>App: Winform </p>
@@ -60,16 +63,9 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 <ul>
   <li>Lọc theo thể loại, v.v.</li>
   <li>Hiển thị thông tin chi tiết của mỗi bàn v.v.</li>
-</ul>
-<p>
- Quản lý thông tin tài khoản 
-</p>
-<ul>
 <li>
   đặt bàn
 </li>
-<li>Thông tin tài khoản</li>
-<li>Thông tin khách hàng</li>
 </ul>
 
 #### APP
