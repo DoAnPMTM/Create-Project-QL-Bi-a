@@ -4,8 +4,8 @@
   
 | STT | Họ tên | Chức vụ  |
 |----------------|--------------------|--------------------|
-|  1  |  Nguyễn Minh Hiếu  |   Nhóm trưởng  |
-|  2  |  Phạm Thanh Tuấn   |   Thành viên  |
+|  1  |  Nguyễn Minh Hiếu  |    |
+|  2  |  Phạm Thanh Tuấn   |    |
 -----------------------------------------------
 ### Sử dụng 
  - .Net Framework
@@ -27,7 +27,7 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 
 ### Yêu cầu 
 
-<p>Web: ASP.NET CORE 8 API, ENTITY FRAMEWORK, ANGULAR v18</p>
+<p>Web: ASP.NET CORE 8 API, ANGULAR v18</p>
 <p>Ngôn ngữ: typescript, html, css, C# </p>
 <p></p>
 
@@ -46,16 +46,12 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 
 | STT | Nghiệp vụ | Phân công  |
 |----------------|--------------------|--------------------|
-|  1  |  Đăng nhập/đăng xuất |   Thảo  |
-|  2  | Phân quyền  |  Thảo |
-|  3  |  Quản lý nhân viên +  chức vụ  |   Thi  |
-|  4  |  Quản lý sách + tác giả + nhà sản xuất + AI|   Thảo  |
-|  5  |  Quản lý khách hàng |  Thi  |
-|  6  |   Quản lý tin tức |  Phát  |
-|  7  |   Thống kê |  Thảo  |
-|  8  |   Báo cáo |  Thảo  |
-|  9  |  Duyệt tin tức|  Thảo  |
-
+|  1  |  Đăng nhập/đăng xuất |   Tuấn  |
+|  2  | Phân quyền  |  Tuấn |
+|  3  |  Quản lý khách hàng |  Tuấn  |
+|  4  |   Cho Thuê Bàn  |  Tuấn  |
+|  5  |   Cho thuê bàn đăt trước  |  Tuấn  |
+|  6  |   Tính Tiền Bàn  |  Tuấn  |
 
 ## Chức năng
 #### WEDSITE
@@ -74,14 +70,9 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 Quản lý sách
 </p>
 <ul>
-<li>Thêm và cập nhật sách</li>
-<li>Tra cứu thông tin sách</li>
-</ul>
-<p>
-Quản lý thể loại và nhà xuất bản
-</p>
-<ul>
-<li>Thêm và cập nhật </li>
+<li>Thêm và cập nhật Bàn</li>
+<li>Tra cứu thông tin Bàn</li>
+<li>Sửa thông tin bàn</li>
 </ul>
 <p>
 Quản lý khách hàng
@@ -89,33 +80,5 @@ Quản lý khách hàng
 <ul>
 <li>Thêm và cập nhật </li>
 <li>Tra cứu thông tin khách hàng</li>
-</ul>
-<p>
-Quản lý tin tức
-</p>
-<ul>
-<li>Thêm và cập nhật </li>
-<li>Duyệt tin tức </li>
-</ul>
-<p>
-Quản lý nhân viên và chức vụ
-</p>
-<ul>
-<li>Thêm và cập nhật </li>
-<li> Phân quyền nhân viên tùy theo chức vụ</li>
-<li> Tra cứu thông tin của nhân viên </li></li>
-</ul>
-<p>
-Báo cáo
-</p>
-<ul>
-<li>Sách được mau nhiều nhất trong tháng </li>
-<li> Sách đuợc Thêm vào yêu thích nhiều nhất</li></li>
-</ul>
-<p>
-Thống kê</p>
-<ul>
-<li>Doanh thu </li>
-<li> Đơn hàng theo ngày theo tháng, theo năm</li></li>
-</ul>
+</u
 
