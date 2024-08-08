@@ -67,12 +67,13 @@ quản lý Quán Bi-a là một hệ thống ứng dụng đa nền tảng cho p
 #### APP
 
 <p>
-Quản lý sách
+Quản lý Bàn
 </p>
 <ul>
 <li>Thêm và cập nhật Bàn</li>
 <li>Tra cứu thông tin Bàn</li>
 <li>Sửa thông tin bàn</li>
+<li>Thêm bàn mới</li>
 </ul>
 <p>
 Quản lý khách hàng
